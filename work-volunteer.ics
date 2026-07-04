@@ -54,4 +54,12 @@ DTEND;TZID=America/Vancouver:20260717T160000
 SUMMARY:LIBREXIA Study 109830 Visit 9 Month In-Person F/U
 DESCRIPTION:Microsoft Teams. Meeting ID: 238 864 667 147 81\, Passcode: AK3bt7RD. Confirmed by Afifa Humaira Jul 3.
 END:VEVENT
+BEGIN:VEVENT
+UID:038b2be6-f3d5-4ff5-9697-4bd054c62e6b
+DTSTAMP:20260704T060708Z
+DTSTART;TZID=America/Vancouver:20260814T100000
+DTEND;TZID=America/Vancouver:20260814T110000
+SUMMARY:LIBREXIA Study 107827 Final EOT In-Person Visit
+DESCRIPTION:Teams: https://teams.microsoft.com/meet/242619886137815?p=AwA9HHJd8folkpaCvm | ID: 242 619 886 137 815 | Passcode: 76te3MY3. Confirmed by Afifa Humaira Jul 3.
+END:VEVENT
 END:VCALENDAR
