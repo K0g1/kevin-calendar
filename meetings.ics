@@ -38,4 +38,12 @@ DTEND;TZID=America/Vancouver:20260820T160000
 SUMMARY:LIBREXIA Study 108029 Final EOT In-Person Visit
 DESCRIPTION:Teams Meeting ID: 293 099 998 266 130\, Passcode: i8bg9ej6. Confirmed by Afifa Humaira.
 END:VEVENT
+BEGIN:VEVENT
+UID:7b655614-9fba-45fb-91d1-b01ba4f08316
+DTSTAMP:20260707T000320Z
+DTSTART;TZID=America/Vancouver:20260707T150000
+DTEND;TZID=America/Vancouver:20260707T160000
+SUMMARY:Co-op Projects Meeting with Dr. Field\, Zach\, and Diana
+DESCRIPTION:Zoom: https://ubc.zoom.us/j/61109358844?pwd=t2V21qsBaVzcOITTbYPtVEy4JY1xhP.1 | Meeting ID: 611 0935 8844 | Passcode: 858058. Dr. Field asked everyone to send revised work since last session before the meeting.
+END:VEVENT
 END:VCALENDAR
