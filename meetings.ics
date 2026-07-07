@@ -31,14 +31,6 @@ SUMMARY:Introduction Call with Minh Phan
 DESCRIPTION:Canadian financial banking system via Google Meet
 END:VEVENT
 BEGIN:VEVENT
-UID:ae08ae56-0e43-433e-8e4e-cffe736e48ec
-DTSTAMP:20260703T180354Z
-DTSTART;TZID=America/Vancouver:20260707T130000
-DTEND;TZID=America/Vancouver:20260707T140000
-SUMMARY:Co-op Projects Meeting with Dr. Field\, Zach\, and Diana
-DESCRIPTION:Co-op projects meeting — exact time TBD\, check email thread
-END:VEVENT
-BEGIN:VEVENT
 UID:8a4a44e6-c67a-45ce-be60-a03d4f4d3758
 DTSTAMP:20260706T170206Z
 DTSTART;TZID=America/Vancouver:20260820T150000
