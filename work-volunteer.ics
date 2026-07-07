@@ -78,4 +78,12 @@ DTEND;TZID=America/Vancouver:20260826T120000
 SUMMARY:LIBREXIA Study 106562 Final EOT In-Person Visit
 DESCRIPTION:Teams meeting — Final EOT In-Person Visit. Confirmed by Afifa Humaira.
 END:VEVENT
+BEGIN:VEVENT
+UID:26dc0307-1eb8-4490-b56c-c72b30b00292
+DTSTAMP:20260707T163135Z
+DTSTART;TZID=America/Vancouver:20260812T130000
+DTEND;TZID=America/Vancouver:20260812T140000
+SUMMARY:LIBREXIA Study 106802 Final EOT In-Person Visit
+DESCRIPTION:LIBREXIA Study 106802 Final EOT In-Person Visit. Microsoft Teams. Meeting ID: 222 847 582 416 304\, Passcode: 55uj2Ak9. Join: https://teams.microsoft.com/meet/222847582416304?p=sdUtFCpxO6oRfkeYQY
+END:VEVENT
 END:VCALENDAR
