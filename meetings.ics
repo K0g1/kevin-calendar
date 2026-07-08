@@ -38,4 +38,22 @@ DTEND;TZID=America/Vancouver:20260707T160000
 SUMMARY:Co-op Projects Meeting with Dr. Field\, Zach\, and Diana
 DESCRIPTION:Zoom: https://ubc.zoom.us/j/61109358844?pwd=t2V21qsBaVzcOITTbYPtVEy4JY1xhP.1 | Meeting ID: 611 0935 8844 | Passcode: 858058. Dr. Field asked everyone to send revised work since last session before the meeting.
 END:VEVENT
+BEGIN:VEVENT
+UID:7ba22cda-f36a-482f-953d-1eebaa4ae0b3
+DTSTAMP:20260708T213250Z
+DTSTART;TZID=America/Vancouver:20260715T100000
+DTEND;TZID=America/Vancouver:20260715T110000
+SUMMARY:VSP Research Team Meeting
+LOCATION:DHCC 8291
+DESCRIPTION:Monthly summer meeting. Teams also available. Todoist 6gwj8frmPm3rVRgP.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb79eb2a-0e9b-46e2-b6cc-b08fa5a334aa
+DTSTAMP:20260708T213252Z
+DTSTART;TZID=America/Vancouver:20260812T100000
+DTEND;TZID=America/Vancouver:20260812T110000
+SUMMARY:VSP Research Team Meeting
+LOCATION:DHCC 8291
+DESCRIPTION:Monthly summer meeting. Teams also available. Todoist 6gwj8g2V24rVm7QP.
+END:VEVENT
 END:VCALENDAR
