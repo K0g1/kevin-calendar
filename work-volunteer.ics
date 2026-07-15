@@ -166,4 +166,12 @@ DTEND;TZID=America/Vancouver:20260828T140000
 SUMMARY:LIBREXIA Study 106563 Final EOT In-Person Visit
 DESCRIPTION:Teams Meeting ID: 216 655 785 2480\, Passcode: bR7jp94k. Confirmed by Afifa Humaira Jul 13.
 END:VEVENT
+BEGIN:VEVENT
+UID:efe0105a-53d8-49c2-a161-a716d50680ea
+DTSTAMP:20260715T220317Z
+DTSTART;TZID=America/Vancouver:20260821T100000
+DTEND;TZID=America/Vancouver:20260821T120000
+SUMMARY:SEARCH Study 121-GEQ 1-Year Follow-Up
+DESCRIPTION:SEARCH_121-GEQ 1-year follow-up visit. Teams/In-person. Attendees: Kevin\, Farnaz\, Namali\, Zach.
+END:VEVENT
 END:VCALENDAR
