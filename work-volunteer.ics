@@ -174,4 +174,12 @@ DTEND;TZID=America/Vancouver:20260821T120000
 SUMMARY:SEARCH Study 121-GEQ 1-Year Follow-Up
 DESCRIPTION:SEARCH_121-GEQ 1-year follow-up visit. Teams/In-person. Attendees: Kevin\, Farnaz\, Namali\, Zach.
 END:VEVENT
+BEGIN:VEVENT
+UID:89a5e2ae-6e4a-4c47-8fc6-3e829f98ef97
+DTSTAMP:20260717T213436Z
+DTSTART;TZID=America/Vancouver:20260814T123000
+DTEND;TZID=America/Vancouver:20260814T133000
+SUMMARY:LIBREXIA Study 109830 Final EOT In-Person Visit
+DESCRIPTION:Patient 109830 Final EOT In-Person Visit. Confirmed by Afifa Humaira (afifa.humaira@ubc.ca). Teams meeting: https://teams.microsoft.com/meet/23886466714781?p=b0FI5e8OkZ7XDQLhkL | Meeting ID: 238 864 667 147 81 | Passcode: AK3bt7RD
+END:VEVENT
 END:VCALENDAR
