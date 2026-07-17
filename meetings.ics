@@ -65,4 +65,12 @@ SUMMARY:FC2 — Louis Li & Minh Phan (Zoom)
 LOCATION:Zoom: https://us06web.zoom.us/j/83444661192?pwd=dZZ0aL3zaNNuCVuUypBEXgbSVqAUa4.1 | Passcode: 900608 | Meeting ID: 834-446-61192
 DESCRIPTION:FC2 meeting organized by Minh Phan. Guests: Louis Li (organizer)\, Kevin Deng. From Louis Li calendar invite via Calendly.
 END:VEVENT
+BEGIN:VEVENT
+UID:1b1e8318-46bf-48c4-aba8-77a498e43d62
+DTSTAMP:20260717T213304Z
+DTSTART;TZID=America/Vancouver:20260814T123000
+DTEND;TZID=America/Vancouver:20260814T133000
+SUMMARY:LIBREXIA 109830 Final EOT In-Person Visit (Teams)
+DESCRIPTION:Patient 109830 Final EOT In-Person Visit. Confirmed by Afifa Humaira (afifa.humaira@ubc.ca). Teams meeting: https://teams.microsoft.com/meet/23886466714781?p=b0FI5e8OkZ7XDQLhkL | Meeting ID: 238 864 667 147 81 | Passcode: AK3bt7RD
+END:VEVENT
 END:VCALENDAR
