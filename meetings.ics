@@ -57,12 +57,12 @@ LOCATION:DHCC 8291
 DESCRIPTION:Monthly summer meeting. Teams also available. Todoist 6gwj8g2V24rVm7QP.
 END:VEVENT
 BEGIN:VEVENT
-UID:e1f3f470-f4da-427c-84ae-896b73e79553
-DTSTAMP:20260712T043236Z
-DTSTART;TZID=America/Vancouver:20260724T190000
-DTEND;TZID=America/Vancouver:20260724T200000
+UID:e64b4372-2f4b-4c42-91f2-f89ce1718509
+DTSTAMP:20260722T200810Z
+DTSTART;TZID=America/Vancouver:20260730T193000
+DTEND;TZID=America/Vancouver:20260730T203000
 SUMMARY:FC2 — Louis Li & Minh Phan (Zoom)
-LOCATION:Zoom: https://us06web.zoom.us/j/83444661192?pwd=dZZ0aL3zaNNuCVuUypBEXgbSVqAUa4.1 | Passcode: 900608 | Meeting ID: 834-446-61192
-DESCRIPTION:FC2 meeting organized by Minh Phan. Guests: Louis Li (organizer)\, Kevin Deng. From Louis Li calendar invite via Calendly.
+LOCATION:Zoom: https://us06web.zoom.us/j/86485829762?pwd=XbR1Yc6xtXw68pE2ZXR0qiljHaAI8H.1 | Passcode: 311934 | Meeting ID: 864-858-29762
+DESCRIPTION:FC2 meeting via Calendly (Minh Phan organizer). Guests: Louis Li\, trevorphan05@gmail.com. Optional attendance.
 END:VEVENT
 END:VCALENDAR
