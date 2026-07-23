@@ -31,4 +31,13 @@ SUMMARY:UBC Work on Campus Fair
 LOCATION:UBC Life Building Concourse
 DESCRIPTION:Meet reps from UBC departments that hire students. Register on CareersOnline. Part of UBC Career Centre events.
 END:VEVENT
+BEGIN:VEVENT
+UID:c9df2781-7ed1-4a3f-8cef-7cd5d6f99ab8
+DTSTAMP:20260723T000330Z
+DTSTART;TZID=America/Vancouver:20260723T191500
+DTEND;TZID=America/Vancouver:20260723T211500
+SUMMARY:Tap & Barrel Shipyards — Dinner (Table for 2)
+LOCATION:8 Lonsdale Ave\, North Vancouver\, BC V7L 0B2
+DESCRIPTION:OpenTable reservation. Confirmation #1143235. Table for 2. 15-min grace period. Phone: (604) 638-2339.
+END:VEVENT
 END:VCALENDAR
