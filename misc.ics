@@ -40,4 +40,13 @@ SUMMARY:Tap & Barrel Shipyards — Dinner (Table for 2)
 LOCATION:8 Lonsdale Ave\, North Vancouver\, BC V7L 0B2
 DESCRIPTION:OpenTable reservation. Confirmation #1143235. Table for 2. 15-min grace period. Phone: (604) 638-2339.
 END:VEVENT
+BEGIN:VEVENT
+UID:dffd9dd9-4f7c-4d6e-a9c5-4d93e8d80af0
+DTSTAMP:20260724T171830Z
+DTSTART;TZID=America/Vancouver:20260725T133000
+DTEND;TZID=America/Vancouver:20260725T153000
+SUMMARY:VSP Afternoon Tea
+LOCATION:The Secret Garden Tea Company\, 2138 West 40th Avenue
+DESCRIPTION:VSP Afternoon tea weekend. Booked for 5: Carson\, Afifa\, Yvonne\, Namali\, Farnaz + Kevin. Contact Carson if you need a ride.
+END:VEVENT
 END:VCALENDAR
