@@ -174,4 +174,12 @@ DTEND;TZID=America/Vancouver:20260814T133000
 SUMMARY:LIBREXIA Study 109830 Final EOT In-Person Visit
 DESCRIPTION:Patient 109830 Final EOT In-Person Visit. Confirmed by Afifa Humaira (afifa.humaira@ubc.ca). Teams meeting: https://teams.microsoft.com/meet/23886466714781?p=b0FI5e8OkZ7XDQLhkL | Meeting ID: 238 864 667 147 81 | Passcode: AK3bt7RD
 END:VEVENT
+BEGIN:VEVENT
+UID:90738aae-8ff0-4fb2-9cd0-d12fec4a468c
+DTSTAMP:20260730T023823Z
+DTSTART;TZID=America/Vancouver:20260821T110000
+DTEND;TZID=America/Vancouver:20260821T130000
+SUMMARY:SEARCH Study 121-GEQ 1-Year Follow-Up
+DESCRIPTION:SEARCH_121-GEQ 1-year follow-up. Attendees: Kevin Deng\, Farnaz Sahragard\, Namali Ratnaweera\, Zach Kanevski. Time updated from 10 AM to 11 AM per Google Calendar update.
+END:VEVENT
 END:VCALENDAR
