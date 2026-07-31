@@ -50,10 +50,10 @@ LOCATION:The Secret Garden Tea Company\, 2138 West 40th Avenue
 DESCRIPTION:VSP Afternoon tea weekend. Booked for 5: Carson\, Afifa\, Yvonne\, Namali\, Farnaz + Kevin. Contact Carson if you need a ride.
 END:VEVENT
 BEGIN:VEVENT
-UID:5502e496-f17e-4027-9610-cab08551d4ea
-DTSTAMP:20260730T225915Z
-DTSTART;TZID=America/Vancouver:20260808T185000
-DTEND;TZID=America/Vancouver:20260808T210000
+UID:0cf9fd1e-4ac5-4039-a90b-822d119a1b46
+DTSTAMP:20260731T072759Z
+DTSTART;TZID=America/Vancouver:20260801T185000
+DTEND;TZID=America/Vancouver:20260801T210000
 SUMMARY:The Odyssey — Landmark 10 New West
 LOCATION:Landmark 10 New West
 DESCRIPTION:Confirmed movie booking. Seats G/7 and G/8. Screen 4. Booking reference WLMXXBW.
