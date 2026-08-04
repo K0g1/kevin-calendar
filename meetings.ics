@@ -74,13 +74,4 @@ SUMMARY:FC3 — Louis Li & Trevor Phan (Zoom)
 LOCATION:Zoom: https://us06web.zoom.us/j/87647807051?pwd=vU2DmalacZKwdG8t473f6f4UqdjFYW.1 | Passcode: 324188 | Meeting ID: 876-478-07051
 DESCRIPTION:FC3 meeting organized by Louis Li via Calendly (Minh Phan). Zoom link in location.
 END:VEVENT
-BEGIN:VEVENT
-UID:0aaf2da4-f785-4451-82c9-d7be8fd56ed7
-DTSTAMP:20260804T043105Z
-DTSTART;TZID=America/Vancouver:20260804T203000
-DTEND;TZID=America/Vancouver:20260804T223000
-SUMMARY:Reminder: FC3 with Louis Li at 08:30pm (Pacific Time - US & Canada) on Tuesday\, August 4\, 2026
-LOCATION:This is a Zoom web conference.
-DESCRIPTION:Confirmed scheduled commitment extracted from email. Evidence: booking.
-END:VEVENT
 END:VCALENDAR
