@@ -182,4 +182,13 @@ DTEND;TZID=America/Vancouver:20260821T130000
 SUMMARY:SEARCH Study 121-GEQ 1-Year Follow-Up
 DESCRIPTION:SEARCH_121-GEQ 1-year follow-up. Attendees: Kevin Deng\, Farnaz Sahragard\, Namali Ratnaweera\, Zach Kanevski. Time updated from 10 AM to 11 AM per Google Calendar update.
 END:VEVENT
+BEGIN:VEVENT
+UID:c585049a-51b8-4b74-a9d5-655a6dea1980
+DTSTAMP:20260806T171129Z
+DTSTART;TZID=America/Vancouver:20260813T130000
+DTEND;TZID=America/Vancouver:20260813T140000
+SUMMARY:3-Day Heart Monitor Set-Up — King Ngor Lo
+LOCATION:Stroke Prevention Clinic\, 8th floor\, Diamond Health Care Centre\, 2775 Laurel St
+DESCRIPTION:VSP patient appointment Kevin confirmed Aug 6: 3-day heart monitoring set-up for King Ngor Lo (same patient as Aug 4 Holter complications thread). Patient confirmed attendance. Matches Outlook Busy block Aug 13 13:00-14:00.
+END:VEVENT
 END:VCALENDAR
