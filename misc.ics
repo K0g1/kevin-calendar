@@ -58,4 +58,13 @@ SUMMARY:The Odyssey — Landmark 10 New West
 LOCATION:Landmark 10 New West
 DESCRIPTION:Confirmed movie booking. Date corrected from Aug 8 to Aug 1 per booking email (ref WLMXXBW) — HTML part of email says Aug 1.
 END:VEVENT
+BEGIN:VEVENT
+UID:84a88999-7df6-4ed9-a3bd-ebfe9f9a2ed6
+DTSTAMP:20260806T162920Z
+DTSTART;TZID=America/Vancouver:20260811T190000
+DTEND;TZID=America/Vancouver:20260811T220000
+SUMMARY:Yeat: The LOVE/LYFE Tour
+LOCATION:PNE Forum
+DESCRIPTION:Yeat: The LOVE/LYFE Tour — Tue Aug 11\, 2026\, 7:00 PM at PNE Forum (Forum 2026). 1x General Admission $75.00 + fees $24.02 (Ticket Fee $18.52\, Facility Fee $5.50) = $99.02 total. Paid VISA ...3618. Manage tickets: https://ticketleader.evenue.net/myaccount
+END:VEVENT
 END:VCALENDAR
