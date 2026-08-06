@@ -390,12 +390,4 @@ ACTION:DISPLAY
 DESCRIPTION:PLAN 341 — Smart Cities (Discussion)
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-UID:cab9b4a7-7415-4bb7-b2a9-df319c8bd00e
-DTSTAMP:20260806T180038Z
-DTSTART;TZID=America/Vancouver:20260806T105600
-DTEND;TZID=America/Vancouver:20260806T125600
-SUMMARY:FW: Forward Care Medical Clinic Auto Reply Re: ATTN: Dr. Amanda Lau | Plavix Pharmacogenetics Cheek Swab Results: Lai Chun (Becky) Tung (PHN:9867837217) Password
-DESCRIPTION:Confirmed scheduled commitment extracted from email. Evidence: booking.
-END:VEVENT
 END:VCALENDAR
