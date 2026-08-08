@@ -67,4 +67,12 @@ SUMMARY:Yeat: The LOVE/LYFE Tour
 LOCATION:PNE Forum
 DESCRIPTION:Yeat: The LOVE/LYFE Tour — Tue Aug 11\, 2026\, 7:00 PM at PNE Forum (Forum 2026). 1x General Admission $75.00 + fees $24.02 (Ticket Fee $18.52\, Facility Fee $5.50) = $99.02 total. Paid VISA ...3618. Manage tickets: https://ticketleader.evenue.net/myaccount
 END:VEVENT
+BEGIN:VEVENT
+UID:1a10df6a-b84f-4d02-8237-68585fa08fb1
+DTSTAMP:20260808T023042Z
+DTSTART;TZID=America/Vancouver:20260811T183000
+DTEND;TZID=America/Vancouver:20260811T203000
+SUMMARY:7:30pm
+DESCRIPTION:Confirmed scheduled commitment extracted from email. Evidence: Your Tickets.
+END:VEVENT
 END:VCALENDAR
