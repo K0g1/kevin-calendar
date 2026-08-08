@@ -59,20 +59,12 @@ LOCATION:Landmark 10 New West
 DESCRIPTION:Confirmed movie booking. Date corrected from Aug 8 to Aug 1 per booking email (ref WLMXXBW) — HTML part of email says Aug 1.
 END:VEVENT
 BEGIN:VEVENT
-UID:84a88999-7df6-4ed9-a3bd-ebfe9f9a2ed6
-DTSTAMP:20260806T162920Z
-DTSTART;TZID=America/Vancouver:20260811T190000
-DTEND;TZID=America/Vancouver:20260811T220000
+UID:94360460-253d-4ae7-a478-41c39f2ce487
+DTSTAMP:20260808T024339Z
+DTSTART;TZID=America/Vancouver:20260811T193000
+DTEND;TZID=America/Vancouver:20260811T223000
 SUMMARY:Yeat: The LOVE/LYFE Tour
-LOCATION:PNE Forum
-DESCRIPTION:Yeat: The LOVE/LYFE Tour — Tue Aug 11\, 2026\, 7:00 PM at PNE Forum (Forum 2026). 1x General Admission $75.00 + fees $24.02 (Ticket Fee $18.52\, Facility Fee $5.50) = $99.02 total. Paid VISA ...3618. Manage tickets: https://ticketleader.evenue.net/myaccount
-END:VEVENT
-BEGIN:VEVENT
-UID:1a10df6a-b84f-4d02-8237-68585fa08fb1
-DTSTAMP:20260808T023042Z
-DTSTART;TZID=America/Vancouver:20260811T183000
-DTEND;TZID=America/Vancouver:20260811T203000
-SUMMARY:7:30pm
-DESCRIPTION:Confirmed scheduled commitment extracted from email. Evidence: Your Tickets.
+LOCATION:PNE Forum (2901 E Hastings St)
+DESCRIPTION:Yeat: The LOVE/LYFE Tour — Tue Aug 11\, 2026\, Doors 6:30 PM / Show 7:30 PM at PNE Forum. 1x General Admission 5.00 + fees 4.02 (Ticket Fee 8.52\, Facility Fee .50) = 9.02 total. Paid VISA ...3618. Mobile ticket only (no screenshots/PDF)\, add to wallet before arrival. Manage tickets: https://ticketleader.evenue.net/myaccount
 END:VEVENT
 END:VCALENDAR
